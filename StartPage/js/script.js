@@ -72,8 +72,7 @@ var linkMenu = [
 
   [svgCode,                    "red",                                         "-HEAD-"], // Code Stuff
   ["GitHub",                   "https://github.com/",""],
-  ["Slack - Bilioteca",        "https://proyectoenbiblioteca.slack.com/messages/C4BV5URD4/",""],
-  ["Slack - Arquitectura",     "https://uq-arquitecturaii.slack.com/messages",""],
+  ["Codacy",                   "https://www.codacy.com/projects",""],
   ["Kitploit",                 "http://www.kitploit.com/",""],
   ["w3schools",                "http://www.w3schools.com/",""],
   ["Start Pages",              "http://startpages.github.io/","" ],
